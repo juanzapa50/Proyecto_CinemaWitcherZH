@@ -19,5 +19,5 @@
 
 ## Imagen
 ![WITCHERZH](https://github.com/juanzapa50/Proyecto_CinemaWitcherZH/blob/main/Imagen%20CINE%20THE%20WITCHER.jpg?raw=true)
-<img alt="I&S" height="200px" src="[https://raw.githubusercontent.com/juliancastillo-udea/AlDiSi/refs/heads/main/images/Logo%20AlDiSi_Horizontal%20UdeA%20II.png](https://github.com/juanzapa50/Proyecto_CinemaWitcherZH/blob/main/Imagen%20CINE%20THE%20WITCHER.jpg?raw=true)">
+<img alt="I&S" height="200px" src="https://github.com/juanzapa50/Proyecto_CinemaWitcherZH/blob/main/Imagen%20CINE%20THE%20WITCHER.jpg?raw=true">
 
