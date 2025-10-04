@@ -10,7 +10,7 @@
 ### Vinculo academicos y descripcion
 * Juan David Zapa Rodriguez
 * > Estudiante UdeA del programa de Ingenieria Industrial, tengo habilidades en las finanzas y videojuegos mundo abierto
-  > * Isaac David Hoyos Genes
+* Isaac David Hoyos Genes
 * > Estudiante UdeA del programa de Ingenieria Industrial, tengo habilidades en las finanzas y videojuegos mundo abierto x2
 
 
