@@ -4,7 +4,7 @@
 ### Integrantes
 *  Juan David Zapa Rodriguez
 *  > Hola soy estudiantes de Ing Industrial, Gracias por asistir me gusta GOD OF WAR 
-* Isaac David Hoyos Genes
+*  Isaac David Hoyos Genes
 *  > Hola soy estudiantes de Ing Industrial, Gracias por asistir me gusta el stardew valley 
 
 ### Vinculo academicos y descripcion
