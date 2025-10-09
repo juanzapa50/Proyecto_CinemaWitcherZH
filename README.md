@@ -42,7 +42,8 @@ Por otro lado, los requisitos no funcionales contemplan aspectos como disponer d
 * Interfas de administrador: Tiempo 12 dias
 * Interfas de salir: Tiempo 2 dias
 #### Diagrama
-<img alt="I&S" height="500px" src="https://github.com/juanzapa50/Proyecto_CinemaWitcherZH/blob/main/Imagen%20CINE%20THE%20WITCHER.jpg?raw=true">
+<img alt="I&S" height="500px" src="![Imagen de WhatsApp 2025-10-09 a las 10 51 01_25cc78fb](https://github.com/user-attachments/assets/b01c822e-7302-4d3a-9c60-ef99ca25626f)
+">
 
 #### Recursos
 * El grupo del trabajo final lo componen dos estudiantes e invierten
