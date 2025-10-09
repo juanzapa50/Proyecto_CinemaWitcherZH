@@ -41,4 +41,9 @@ Por otro lado, los requisitos no funcionales contemplan aspectos como disponer d
 * Interfas de consultar funciones fin de semana: Tiempo 7 dias
 * Interfas de administrador: Tiempo 12 dias
 * Interfas de salir: Tiempo 2 dias
+#### Diagrama
+<img alt="I&S" height="500px" src="https://github.com/juanzapa50/Proyecto_CinemaWitcherZH/blob/main/Imagen%20CINE%20THE%20WITCHER.jpg?raw=true">
 
+#### Recursos
+* El grupo del trabajo final lo componen dos estudiantes e invierten
+un total de 50 horas, estas serán equivalen a valor de práctica profesional.
