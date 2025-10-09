@@ -42,7 +42,7 @@ Por otro lado, los requisitos no funcionales contemplan aspectos como disponer d
 * Interfas de administrador: Tiempo 12 dias
 * Interfas de salir: Tiempo 2 dias
 #### Diagrama
-<img alt="I&S" height="400px" src="https://raw.githubusercontent.com/juanzapa50/Proyecto_CinemaWitcherZH/d9913e05ce69792e42421039d9af27cc700e6066/diagrama%20de%20bentt.jpg">
+<img alt="I&S" height="300px" src="https://raw.githubusercontent.com/juanzapa50/Proyecto_CinemaWitcherZH/d9913e05ce69792e42421039d9af27cc700e6066/diagrama%20de%20bentt.jpg">
 
 #### Recursos
 * El grupo del trabajo final lo componen dos estudiantes e invierten
