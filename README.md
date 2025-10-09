@@ -29,6 +29,6 @@ Entre sus funciones principales se incluyen el registro de usuarios, registro y 
 
 Como beneficio, WicherZH busca optimizar el tiempo de los usuarios al permitir la gestión digital de sus reservas y mejorar la organización interna del cine, proporcionando una herramienta práctica y eficiente para la atención de los clientes.
 
-## Especificacion y requicitos
+## Especificacion y requisitos
 * Los requisitos funcionales incluyen la creación de una interfaz interactiva que permita al usuario visualizar carteleras, seleccionar películas, elegir horarios y realizar reservas de manera intuitiva. Además, el sistema debe responder correctamente a las acciones del usuario y mostrar la información actualizada.
 Por otro lado, los requisitos no funcionales contemplan aspectos como disponer de una conexión estable a Internet, contar con acceso a la plataforma Google Colab y poseer una cuenta con licencia activa para su uso. También se busca garantizar la usabilidad, rendimiento y compatibilidad del sistema dentro del entorno de ejecución en línea.*
