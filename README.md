@@ -17,8 +17,10 @@
 ### Licencia
 <a href="https://github.com/juanzapa50/Proyecto_CinemaWitcherZH">Cinema WitcherZH</a> © 2025 by <a href="https://github.com/juanzapa50">Juan Zapa</a> is licensed under <a href="https://creativecommons.org/licenses/by-nd/4.0/">CC BY-ND 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nd.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
-## Imagen
+## Nombre del proyecto y detalles.
+* El proyecto se denomina WicherZH, y consiste en el desarrollo de una interfaz interactiva en Google Colab para la gestión de reservas de boletos de cine.
 <img alt="I&S" height="600px" src="https://github.com/juanzapa50/Proyecto_CinemaWitcherZH/blob/main/Imagen%20CINE%20THE%20WITCHER.jpg?raw=true">
+
 
 ## Reporte de vision
 * El software WicherZH es una aplicación desarrollada en Google Colab que tiene como objetivo ofrecer una interfaz sencilla e intuitiva para la gestión de reservas de boletos de cine. Su propósito principal es facilitar el proceso de compra de entradas, brindando a los usuarios una experiencia más rápida, cómoda y accesible.
