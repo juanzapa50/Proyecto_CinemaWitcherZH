@@ -20,3 +20,6 @@
 ## Imagen
 <img alt="I&S" height="600px" src="https://github.com/juanzapa50/Proyecto_CinemaWitcherZH/blob/main/Imagen%20CINE%20THE%20WITCHER.jpg?raw=true">
 
+## Especificacion y requicitos
+* Los requisitos funcionales incluyen la creación de una interfaz interactiva que permita al usuario visualizar carteleras, seleccionar películas, elegir horarios y realizar reservas de manera intuitiva. Además, el sistema debe responder correctamente a las acciones del usuario y mostrar la información actualizada.
+Por otro lado, los requisitos no funcionales contemplan aspectos como disponer de una conexión estable a Internet, contar con acceso a la plataforma Google Colab y poseer una cuenta con licencia activa para su uso. También se busca garantizar la usabilidad, rendimiento y compatibilidad del sistema dentro del entorno de ejecución en línea.*
