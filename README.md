@@ -35,10 +35,10 @@ Por otro lado, los requisitos no funcionales contemplan aspectos como disponer d
 
 ### Plan de proyecto
 #### Actividades
-* Interfas de registrar usuario: Tiempo 2 semanas
-* Interfas de registrar reserva: Tiempo 1 semana
-* Interfas de cancelar reserva: Tiempo 1 semana
-* Interfas de consultar funciones fin de semana: Tiempo 1 semana
-* Interfas de administrador: Tiempo 2 semana
-* Interfas de salir: Tiempo 1/2 semana
+* Interfas de registrar usuario: Tiempo 10 dias
+* Interfas de registrar reserva: Tiempo 10 dias
+* Interfas de cancelar reserva: Tiempo 10 dias
+* Interfas de consultar funciones fin de semana: Tiempo 10 dias
+* Interfas de administrador: Tiempo 10 dias
+* Interfas de salir: Tiempo 2 dias
 
