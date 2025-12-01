@@ -1,4 +1,4 @@
-#MANUAL DE USUARIO CINEMA WITCHERZH
+# *MANUAL DE USUARIO CINEMA WITCHERZH*
 El Cinema WitcherZH es un programa de consola que permite gestionar el sistema de un cine universitario.
 Con este software, cualquier usuario puede:
 ##Registrarse
