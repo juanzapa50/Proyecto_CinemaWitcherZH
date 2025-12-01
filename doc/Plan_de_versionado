@@ -11,17 +11,12 @@ Versión 0.3:
 - verificar funcionalidad del codigo (registrar nombre, apellido, documento y vínculo)
 Versión 0.4: 
 -Implementación del caso 2. Registrar reserva.
-
 -Visualización de cartelera.
-
 -Mapa de asientos con filas A–K.
-
 -Validación y asignación de asientos. (asientos de A-K y 1-11)
 Versión 0.5:
 -Implementación del caso 3. Cancelar reserva.
-
 -Devolución de asiento y reposición en disponibilidad.
-
 -Eliminación de la reserva del usuario.
 Versión 0.6:
 -Implementación del caso 4. Consultar funciones del fin de semana.
