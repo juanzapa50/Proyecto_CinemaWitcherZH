@@ -23,6 +23,19 @@ Versión 0.5:
 -Devolución de asiento y reposición en disponibilidad.
 
 -Eliminación de la reserva del usuario.
-Versión 0.6
+Versión 0.6:
 -Implementación del caso 4. Consultar funciones del fin de semana.
 -Tabla con día, hora, película y cupos disponibles.
+Versión 0.7:
+-Validación completa de administrador (nombre y documento).
+-Organización del submenú de administrador
+Versión 0.8
+- Integración de la base de datos en cvs.
+- Creación de funciones de registro y guardado
+Versión 0.9
+- Ajustes menores y pruebas de testeo.
+Versión 1.0 (Proyecto terminado)
+-Programa completamente funcional.
+-BD en CSV iniciada automáticamente si no existe.
+-Registro, modificación y consulta funcionando al 100%.
+-Pruebas realizadas en todos los casos del menú.
